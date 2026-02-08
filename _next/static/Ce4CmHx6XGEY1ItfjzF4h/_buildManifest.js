@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/landing-nutrition//_next/:path+",
-        "destination": "/landing-nutrition/_next/:path+"
+        "source": "/nutrition-landing-page//_next/:path+",
+        "destination": "/nutrition-landing-page/_next/:path+"
       }
     ],
     "fallback": []
